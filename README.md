@@ -2,8 +2,11 @@
 
 
  This project is structured for educational purposes and assumes a basic single cycle MIPS processor that can be expanded based on specific requirements.
-![Top level schematic for mips architecture taken from reference.](mips_top_architecture.png) ![Detailed schematic for mips architecture taken from reference.](mips_architecture.png)
 
+<div style="display: flex;">
+    <img src="mips_top_architecture.png" alt="Top level schematic for mips" style="width: 50%;"/>
+    <img src="mips_architecture.png" alt="Detailed schematic for mips" style="width: 50%;"/>
+</div>
 
 
 ## Objective
