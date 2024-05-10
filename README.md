@@ -9,7 +9,7 @@
         <p> -Top level schematic for mips.</p>
     </div>
     <div style="text-align: center;">
-        <img src="mips_architecture.png" alt="Image 2" style="width: 100%;"/>
+        <img src="mips_architecture.png" alt="Image 2" style="width: 79%;"/>
         <p> - Detailed schematic for mips.</p>
     </div>
 </div>
