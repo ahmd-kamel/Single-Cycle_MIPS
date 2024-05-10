@@ -25,7 +25,6 @@
 3. Implementation
 4. Testbench Design
 5. Verification  
-6. Synthesis
 
 ## Phase 1: Requirements Analysis
 - **Task 1.1** : Identify the subset of MIPS instructions to be implemented (ADD, SUB, LW, SW, .. ).
@@ -52,11 +51,6 @@
 - **Task 5.2** : Perform integration testing on the full processor.
 - **Task 5.3** : Analyze the simulation results and verify against the specifications.
 
-
-##  Phase 6: Synthesis
-- **Task 6.1** : Synthesize the Verilog code for a target FPGA.
-- **Task 6.2** : Perform post-synthesis simulation to verify functionality.
-- **Task 6.3** : Analyze the synthesis reports for timing.
 
 ## References 
 - Digital Logic And Computer Design By M. **Morris Mano**
