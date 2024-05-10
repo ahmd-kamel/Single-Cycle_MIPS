@@ -5,7 +5,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="text-align: center;">
-        <img src="./mips_top_architecture.png" alt="Image 1" style="width: 80%;"/>
+        <img src="./mips_top_architecture.png" alt="Image 1" style="width: 45%;"/>
         <p> -Top level schematic for mips.</p>
     </div>
     <div style="text-align: center;">
