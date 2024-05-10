@@ -4,7 +4,7 @@
  This project is structured for educational purposes and assumes a basic single cycle MIPS processor that can be expanded based on specific requirements.
 
 <div style="display: flex;">
-    <div style="text-align: center; width: 50%;">
+    <div style="text-align: center; width: 40%;">
         <img src="mips_top_architecture.png" alt="Image 1" style="width: 45%;"/>
         <p> -Top level schematic for mips.</p>
     </div>
