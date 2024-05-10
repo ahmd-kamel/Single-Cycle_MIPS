@@ -1,10 +1,8 @@
 # Microprocessor without Interlocked Pipeline Stages
 
 
-
  This project is structured for educational purposes and assumes a basic single cycle MIPS processor that can be expanded based on specific requirements.
 
-[![Build Status](badge)](link) [![Tests](badge)](link)  [![Coverage](badge)](link) [![License Badge](badge)](link)
 
 
 ## Objective
