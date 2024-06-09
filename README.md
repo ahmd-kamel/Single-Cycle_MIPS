@@ -1,7 +1,15 @@
-# Microprocessor without Interlocked Pipeline Stages
+# Instruction Set Architecture
+ISA (Instruction Set Architecture) for MIPS 32 refers to the set of instructions that the MIPS (Microprocessor without Interlocked Pipeline Stages) architecture supports for 32-bit processing.
 
+- **Instruction Formats**: MIPS 32 instructions are typically 32 bits long and can be categorized into three main formats: R-type, I-type, and J-type. R-type instructions are used for arithmetic and logical operations, I-type instructions for immediate values "adding constant to register", and J-type instructions for jump operations.
 
- This project is structured for educational purposes and assumes a basic single cycle MIPS processor that can be expanded based on specific requirements.
+- **Registers**: MIPS 32 architecture has 32 general-purpose registers, labeled as $0 to $31. Register $0 is hardwired to zero and has special properties.
+
+- **Data Types**: MIPS 32 supports 32-bit data types for integers, but not supporing floating-point numbers.
+
+![ISA 32 for MIPS](./MIPS-32+ISA+Instruction.jpg)
+
+## Microprocessor without Interlocked Pipeline Stages
  
 <table>
   <tr>
